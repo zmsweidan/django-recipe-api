@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\User\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "files.exclude": {
+    
+    }
+}
